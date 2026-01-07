@@ -1,0 +1,28 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# R session data
+.Rdata
+.httr-oauth
+
+# R temporary files
+*~
+*.swp
+*.swo
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

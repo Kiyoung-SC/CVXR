@@ -1,5 +1,5 @@
 # Linear Programming Practice Problem
-# 
+#
 # Problem: Minimize a linear objective function subject to linear constraints
 # 
 # Minimize: c^T * x
