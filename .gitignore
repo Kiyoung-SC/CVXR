@@ -2,6 +2,7 @@
 .venv/
 venv/
 env/
+.venv312/
 
 # Python cache
 __pycache__/
@@ -21,3 +22,7 @@ Thumbs.db
 
 # Output files
 axis_overlay.png
+.output/
+output/
+.resource/sfm_output/
+resource/sfm_output/
