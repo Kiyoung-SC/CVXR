@@ -26,3 +26,5 @@ axis_overlay.png
 output/
 .resource/sfm_output/
 resource/sfm_output/
+.resource/voc_output/
+resource/voc_output/
